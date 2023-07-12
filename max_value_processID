@@ -1,0 +1,2 @@
+#!/bin/bash
+cat prod/sys/kernel/pid_max
